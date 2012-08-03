@@ -9,4 +9,4 @@
 	url = git://github.com/dg/texy.git
 [submodule "libs/TokenReflection"]
 	path = libs/TokenReflection
-	url = git://github.com/Andrewsville/PHP-Token-Reflection.git
+	url = git://github.com/VaclavSir/PHP-Token-Reflection.git
